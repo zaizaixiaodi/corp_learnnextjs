@@ -10,6 +10,6 @@ export const metadata: Metadata = {
 }
 export default function page() {
   return (
-    <Hero imgURL={reliabilitySrc} altTxt='一个图片' content='存子美' />
+    <Hero imgURL={reliabilitySrc} altTxt='一个图片' content='存子 is Good' />
   )
 }

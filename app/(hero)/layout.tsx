@@ -4,7 +4,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "@/app/globals.css";
 import Link from "next/link";
 import Header from "@/components/header";
-
+import { Analytics } from "@vercel/analytics/react"
 
 
 export const metadata: Metadata = {

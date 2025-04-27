@@ -7,9 +7,9 @@ import React from 'react'
 // const accessLink = ['/', '/performance', '/reliability','/scale']
 export default function Header() {
   const linkData = [
-    { name: "Performance", href: "/performance" },
-    { name: "Reliability-存子", href: "/reliability" },
-    { name: "Scale", href: "/scale" },
+    { name: "nini", href: "/performance" },
+    { name: "liuhaocun", href: "/reliability" },
+    { name: "songyi", href: "/scale" },
   ]
   const pathname = usePathname()
   // if(!accessLink.includes(pathname)) return null
