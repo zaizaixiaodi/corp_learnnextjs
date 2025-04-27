@@ -13,6 +13,6 @@ export const metadata: Metadata = {
 export default function Page() {
   // notFound()
   return (
-    <Hero imgURL={performanceSrc} altTxt='一个图片' content='Next.js is GOOD' />
+    <Hero imgURL={performanceSrc} altTxt='一个图片' content='妮子 is GOOD' />
   )
 }

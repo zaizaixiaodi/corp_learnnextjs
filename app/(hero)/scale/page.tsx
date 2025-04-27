@@ -9,6 +9,6 @@ export const metadata:Metadata = {
 }
 export default function page() {
   return (
-    <Hero imgURL={scaleSrc} altTxt='一个图片' content='Next.js is GOOD' />
+    <Hero imgURL={scaleSrc} altTxt='一个图片' content='铁子 is GOOD' />
   )
 }

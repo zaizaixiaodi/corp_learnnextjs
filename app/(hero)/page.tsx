@@ -10,6 +10,6 @@ export const metadata: Metadata = {
 export default function page() {
   console.log('hero子路由组的page渲染了');
   return (
-    <Hero imgURL={homeSrc}  altTxt='一个图片' content='Next.js is GOOD'/>
+    <Hero imgURL={homeSrc}  altTxt='一个图片' content='晨子 is GOOD'/>
   )
 }
